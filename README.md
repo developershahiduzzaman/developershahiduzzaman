@@ -21,7 +21,7 @@ Adobe Photoshop, Illustrator, App Promotion Video Editing
 Search Engine Optimization, App Promotion
   
 <h4>Contact Details</h4>
-Phone: +8801725918057</br>
+Phone: +8801745578691</br>
 Gmail: shahiduzzaman.it@gmail.com</br>
 Facebook: https://www.facebook.com/shahiduzzaman91/</br>
 Linkedin: https://www.linkedin.com/in/shahid91/</br>
