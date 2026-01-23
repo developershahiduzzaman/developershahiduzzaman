@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=Hi,+I'm+Shahiduzzaman+Shahin;Senior+IT+System+Engineer;Android+%26+Web+Solution+Expert;9%2B+Years+of+Experience" alt="Typing SVG" />
+  
 
   <h1>Hi 👋, I’m Shahiduzzaman Shahin</h1>
   <p><strong>Assistant System Engineer | Android & Web Solutions Expert</strong></p>
@@ -19,7 +19,7 @@
 ---
 
 ### 🖋️ About Me
-I am a dedicated **Assistant System Engineer** and **Full-Stack Developer** with nearly a decade of professional experience. I specialize in designing secure server environments and building high-performance mobile ecosystems.
+I am a **System Engineer**, **Android App Developer**, and the **Founder & Owner at Future Tech BD**. With over 9 years of professional experience, I specialize in bridging the gap between secure enterprise infrastructure and high-performance mobile applications.
 
 - 🌍 **Based in:** Bangladesh
 - 🚀 **Core Expertise:** Android (Java/Kotlin), Laravel, and Linux System Administration.
